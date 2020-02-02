@@ -1,0 +1,29 @@
+h1, h2, h3 {
+    font-family: "Arial";
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: lightblue;
+}
+
+.navbar {
+    background-color: #901CAD;
+}
+
+h3 {
+    color: blue;
+}
+
+header.jumbotron {
+    background-image: linear-gradient(to right, purple , blue);
+    margin: 0;
+  }
+
+footer {
+    background-image: linear-gradient(to bottom, lightblue , white);
+    padding: 25px 0px;
+  }
