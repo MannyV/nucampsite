@@ -23,7 +23,7 @@ header.jumbotron {
     margin: 0;
   }
 
-footer {
-    background-image: linear-gradient(to bottom, lightblue , white);
-    padding: 25px 0px;
-  }
+  .site-footer{
+    background-image: linear-gradient(#b7a8f8, white);
+    padding: 20px 0px;
+}
