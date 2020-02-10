@@ -27,9 +27,3 @@ header.jumbotron {
     background-image: linear-gradient(#b7a8f8, white);
     padding: 20px 0px;
 }
-
-.tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
-}
